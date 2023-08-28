@@ -1,6 +1,6 @@
 # Azure DevOps with AKS and ACR
 
-In this project, we are deploying a javascript application in AKS containers using Azure pipeline. The pipeline is used to build the docker image, store it in ACR, and deploy it to AKS on the trigger.
+In this project, we are deploying a javascript application in AKS containers using Azure pipeline. The pipeline is used to build the docker image, store it in ACR, and deploy it to AKS.
 
 ![image](https://github.com/bishal-kashyap/azure-pipeline-deploy-to-ACR-and-AKS-using-terraform/assets/142091530/0f4c2f43-3405-4527-8e27-38f154a0c497)
 
