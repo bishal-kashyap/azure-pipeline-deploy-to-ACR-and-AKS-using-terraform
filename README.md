@@ -51,6 +51,7 @@ Hurray!! Our application is up and running!
 
 Now destroy the resources created using `terraform destroy`.
 
+--
 
 
 
